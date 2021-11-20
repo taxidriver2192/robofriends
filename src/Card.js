@@ -12,4 +12,4 @@ const Card = ({name, email}) => {
     );
 }
 
-export default Card;
+export default Card;            
